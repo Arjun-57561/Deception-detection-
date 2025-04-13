@@ -16,7 +16,7 @@ An AI-powered multimodal system to detect deception in courtroom testimonies usi
 - Modalities:
   - 🎥 Video clips of testimony(https://drive.google.com/drive/folders/1KXKyOr7q8A0LbvQWwM7svrxFv2xW2QHH?usp=sharing)
   - 🔊 Audio from the same clips
-  - 📜 Transcribed text
+  - 📜 Transcribed text (https://drive.google.com/drive/folders/1JOe7OVZ_wvtoPtOcxP-sjJvYOOEzKKgf?usp=sharing)
   - 🏷️ Annotations (Truth/Lie labels) (https://drive.google.com/drive/folders/1NNAKlbtagF46AFzWOV5Jznvyg4Dy0Mow?usp=drive_link)
 
 You can find this dataset publicly available for research use.
