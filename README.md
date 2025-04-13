@@ -89,7 +89,13 @@ RLDD_EmotionDeception_Project/
    - Feature importance plots
 
 ---
+## 🎬 Demo
 
+Watch a quick demo of the deception detection system in action:
+
+👉 [Watch the Video Demo] (https://drive.google.com/file/d/1iRoHJrZabW2hNsYs5UkTSTnvh3aVHDqJ/view?usp=sharing)
+
+---
 ## 🔍 Future Scope
 
 - Temporal emotion shift tracking (e.g. frame-by-frame change)
