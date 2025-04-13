@@ -17,7 +17,7 @@ An AI-powered multimodal system to detect deception in courtroom testimonies usi
   - 🎥 Video clips of testimony
   - 🔊 Audio from the same clips
   - 📜 Transcribed text
-  - 🏷️ Annotations (Truth/Lie labels)
+  - 🏷️ Annotations (Truth/Lie labels) (https://drive.google.com/drive/folders/1NNAKlbtagF46AFzWOV5Jznvyg4Dy0Mow?usp=drive_link)
 
 You can find this dataset publicly available for research use.
 
